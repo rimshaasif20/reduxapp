@@ -1,0 +1,26 @@
+.container {
+  background-color: #f8f9fa;
+  padding: 10px;
+  background-color: palegreen;
+  margin-top: 20px;
+}
+
+.navbar {
+  display: flex;
+  font-size: 1.5rem;
+  align-items: center;
+}
+
+.navbar .nav-link {
+  color: blue;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.navbar .nav-link:hover {
+  color: red;
+}
+
+.navbar .nav {
+  margin-right: auto;
+}
