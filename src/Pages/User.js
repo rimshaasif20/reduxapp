@@ -62,7 +62,7 @@ const User = () => {
   return (
     <>
       <div className="form-container">
-        <h2>Login</h2>
+        <h2>Login Form</h2>
         <Formik initialValues={initialValues} onSubmit={handleSubmit} validationSchema={validationSchema}>
           <Form >
             <div className="form-field">

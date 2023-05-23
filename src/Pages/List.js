@@ -32,7 +32,7 @@ const List = () => {
 
   return (
     <div className="table-container">
-      <h2>Users List</h2>
+      <h2>Users Lists</h2>
 
       {/* Search Input */}
       <input
